@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorChipText">#FFFFFF</color>
+    <color name="colorChipHighlight">#161616</color>
+
+    <color name="colorOnActionBar">#000000</color>
+    <color name="colorPrimary">#517DA2</color>
+    <color name="colorPrimaryDark">#426382</color>
+    <color name="colorTitle">#3896D4</color>
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorOnSurface">#97A3AB</color>
+    <color name="colorSelectorItemText">#000000</color>
+
+    <color name="colorScrollBackground">#99E2EEF9</color>
+    <color name="colorScrollSelector">#8086A9C4</color>
+
+    <bool name="lightBars">true</bool>
+
+</resources>

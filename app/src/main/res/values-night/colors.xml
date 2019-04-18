@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnActionBar">#FFFFFF</color>
+
+    <color name="colorPrimary">#212D3B</color>
+    <color name="colorPrimaryDark">#1A242E</color>
+    <color name="colorTitle">#7BC4FB</color>
+    <color name="colorBackground">#151E27</color>
+    <color name="colorSurface">#1D2733</color>
+    <color name="colorDivider">#101924</color>
+    <color name="colorOnSurface">#506372</color>
+    <color name="colorSelectorItemText">#ffffff</color>
+
+    <color name="colorScrollBackground">#99304259</color>
+    <color name="colorScrollSelector">#806F899E</color>
+
+    <bool name="lightBars">false</bool>
+
+</resources>

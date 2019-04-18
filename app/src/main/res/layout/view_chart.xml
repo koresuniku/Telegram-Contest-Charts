@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipChildren="true"
+    android:orientation="vertical"
+    tools:parentTag="android.widget.LinearLayout">
+
+    <org.telegram.charts.view.ChartViewportView
+        android:id="@+id/chartViewportView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <org.telegram.charts.view.ChartSelectorView
+        android:id="@+id/chartSelectorView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_weight="1" />
+
+    <!--<ListView-->
+        <!--android:id="@+id/chartSelectorListView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:isScrollContainer="false"-->
+        <!--android:scrollbars="none" />-->
+
+</merge>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chart_view_elevation">0.5dp</dimen>
+    <dimen name="chart_view_divider">16dp</dimen>
+    <dimen name="chart_title_size">16sp</dimen>
+
+    <dimen name="chart_viewport_height">390dp</dimen>
+    <dimen name="chart_viewport_padding">16dp</dimen>
+    <dimen name="chart_viewport_content_top_offset">30dp</dimen>
+    <dimen name="chart_viewport_axis_thickness">1dp</dimen>
+    <dimen name="chart_viewport_axis_step">48dp</dimen>
+    <dimen name="chart_viewport_labels_size">12sp</dimen>
+    <dimen name="chart_viewport_y_labels_bottom_offset">4dp</dimen>
+    <dimen name="chart_viewport_line_width">1.5dp</dimen>
+
+    <dimen name="chart_selector_view_corner_radius">18dp</dimen>
+    <dimen name="chart_selector_view_gap_horizontal">8dp</dimen>
+    <dimen name="chart_selector_view_gap_vertical">12dp</dimen>
+    <dimen name="chart_selector_view_labels_size">14sp</dimen>
+    <dimen name="chart_selector_view_chip_inset">2dp</dimen>
+
+    <dimen name="chart_slider_height">36dp</dimen>
+    <dimen name="chart_slider_corner_radius">6dp</dimen>
+    <dimen name="chart_slider_horizontal_border">1dp</dimen>
+    <dimen name="chart_slider_side_width">8dp</dimen>
+    <dimen name="chart_slider_decoration_width">1.5dp</dimen>
+    <dimen name="chart_slider_decoration_height">8dp</dimen>
+
+</resources>

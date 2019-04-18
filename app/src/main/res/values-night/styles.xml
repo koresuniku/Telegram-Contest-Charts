@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/colorSurface</item>
+        <item name="android:colorPrimaryDark" tools:targetApi="lollipop">@color/colorSurface</item>
+        <item name="android:actionBarStyle">@style/AppTheme.ActionBarDay</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="lollipop">true</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/colorSurface</item>
+        <item name="android:navigationBarDividerColor" tools:targetApi="o_mr1">@color/colorBackground</item>
+
+    </style>
+</resources>
